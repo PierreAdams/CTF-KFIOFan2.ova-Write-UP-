@@ -22,3 +22,5 @@ Le message qui apparait : 220 Salut Alice ! Suite a l'attaque sur notre preceden
 
 
 Pour la suite On va se connecter en FTP Avec un Outil comme FilleZilla (celui que j'utilise sur mon kali mais il en existe d'autres) En Anonymous (On à vu que c'etait possible)
+
+![Scan](https://user-images.githubusercontent.com/39098396/59053458-c8ae1c80-8891-11e9-9d44-64f0ee84f0d3.png)

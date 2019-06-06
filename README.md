@@ -9,3 +9,5 @@ Aucun port ouvert donc on elargit le scan de ports :
 Le port 26921 est ouvert (vsftpd 2.0.8)
 
 On va ecouter sur le port 26921 avec Netcat : 
+
+![Scan](

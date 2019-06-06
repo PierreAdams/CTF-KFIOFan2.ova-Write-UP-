@@ -28,3 +28,7 @@ Pour la suite On va se connecter en FTP Avec un Outil comme FilleZilla (celui qu
 On a donc accès à 4 images et a un dossier Serrure ! On les telecharge pour les analyser et voir ce qu'on peut en tirer!
 
 ![Scan](https://user-images.githubusercontent.com/39098396/59053607-16c32000-8892-11e9-99f8-1d10ab9c49c6.png)
+
+si on rassemble les images pour reconstituer le corps de Chaos nous pouvons dechiffré au milieu : 
+
+```cle.txt```

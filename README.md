@@ -32,3 +32,5 @@ On a donc accès à 4 images et a un dossier Serrure ! On les telecharge pour le
 si on rassemble les images pour reconstituer le corps de Chaos nous pouvons dechiffré au milieu : 
 
 ```cle.txt```
+
+nous en aurons surement besoins pour une serrure...

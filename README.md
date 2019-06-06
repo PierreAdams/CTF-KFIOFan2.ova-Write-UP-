@@ -10,4 +10,4 @@ Le port 26921 est ouvert (vsftpd 2.0.8)
 
 On va ecouter sur le port 26921 avec Netcat : 
 
-![Scan](https://github.com/PierreAdams/CTF-KFIOFan2.ova-Write-UP-/issues/1#issuecomment-499586196)
+![Scan](https://user-images.githubusercontent.com/39098396/59052385-4ae91180-888f-11e9-8e26-bbd2e8582294.png)

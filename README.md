@@ -57,3 +57,4 @@ Si on se renseigne un peu sur l'auteur et sur l'origine de son nom on peut tombe
 
 Si le nom complet de Khaos (c'est a dire : Khaos _Farbauti Ibn Oblivion_ ) dans le fichier cle.txt
 
+![Scan](https://user-images.githubusercontent.com/39098396/59135266-9af2d180-897e-11e9-8771-6422ec91c063.png)

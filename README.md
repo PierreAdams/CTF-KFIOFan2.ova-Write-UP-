@@ -34,3 +34,5 @@ si on rassemble les images pour reconstituer le corps de Chaos nous pouvons dech
 ```cle.txt```
 
 cette même clé qu'on va mettre dans la serrure et voir ce qui se passe : 
+
+![Scan](https://user-images.githubusercontent.com/39098396/59113195-e5575c80-8944-11e9-96e4-1c898728821c.png)

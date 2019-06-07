@@ -33,4 +33,4 @@ si on rassemble les images pour reconstituer le corps de Chaos nous pouvons dech
 
 ```cle.txt```
 
-nous en aurons surement besoins pour une serrure...
+cette même clé qu'on va mettre dans la serrure et voir ce qui se passe : 

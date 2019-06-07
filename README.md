@@ -51,7 +51,7 @@ Avec comme code source :
 
 ![Scan](https://user-images.githubusercontent.com/39098396/59130296-5ad82280-896f-11e9-953e-79c4abd1b7af.png)
 
-Si on se renseigne un peu sur l'auteur et sur l'origine de son nom on peut tomber sur son propre blogue : 
+Si on se renseigne un peu sur l'auteur et sur l'origine de son nom on peut tomber sur son propre blog : 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/59135092-fc667080-897d-11e9-8332-d137d40ddb2b.png)
 

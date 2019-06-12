@@ -69,9 +69,13 @@ Un Formulaire d'upload est soudain apparu :
 
 Apres quelque recherches nous allons devoir uploader 2 fichiers :
   - Un .htaccess : 
+  
+  
   ![Scan](https://user-images.githubusercontent.com/39098396/59339404-6a0af780-8d04-11e9-90da-31c11ba3bdaf.png)
   
   - Un Web-Shell : 
+  
+  
    ![Scan](https://user-images.githubusercontent.com/39098396/59339558-ae969300-8d04-11e9-8dc7-bb87837fbca5.png)
   
   

@@ -1,3 +1,5 @@
+CTF disponible à cette adresse : https://khaos-drive.mycozy.cloud/public?sharecode=MDguO1eH68Ma
+
 scan nmap habituel : 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/59051726-df527480-888d-11e9-96f8-8e31c705948c.png)
@@ -64,3 +66,10 @@ Un Formulaire d'upload est soudain apparu :
 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/59135424-22404500-897f-11e9-84dc-67ba6fa0384b.png)
+
+Apres quelque recherches nous allons devoir uploader 2 fichiers :
+  - Un .htaccess : 
+  - Un Web-Shell : 
+  
+  
+  

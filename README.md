@@ -77,5 +77,12 @@ Apres quelque recherches nous allons devoir uploader 2 fichiers :
   
   
    ![Scan](https://user-images.githubusercontent.com/39098396/59339558-ae969300-8d04-11e9-8dc7-bb87837fbca5.png)
+   
+ Une fois ces 2 fichiers uploader 
+ on se rend dans les fichier uploader pour voir notre shell : 
+ 
+ _http://192.168.1.23:26980/uploads/_
+ 
+ et on ouvre notre shell 
   
   

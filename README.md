@@ -84,7 +84,14 @@ Apres quelque recherches nous allons devoir uploader 2 fichiers :
  _http://192.168.1.23:26980/uploads/_
  
  et on ouvre notre shell pour pouvoir executer des commandes comme ceci : 
+ 
+ 
  ![Scan](https://user-images.githubusercontent.com/39098396/59340256-ece08200-8d05-11e9-8b04-d6c0c6c022e7.png)
 
+
+on peut ensuite voir une cle rsa ici : 
+
+
+ ![Scan](https://user-images.githubusercontent.com/39098396/59344231-f1109d80-8d0d-11e9-9afc-a5a78f8d4b39.png)
   
   

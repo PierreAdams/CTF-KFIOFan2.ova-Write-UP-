@@ -117,13 +117,19 @@ _strings test_
 
 Et parmis les reponses de cette commande nous voyons un : 
 
-*lancement debug 
-touch /root/authorize_bob*
+*lancement debug*
+*touch /root/authorize_bob*
 
 il nous faut donc activer le debug pour que logiquement bob soit authoriser en tant que root sur la machine.
 
 pour ca allons voir l'adresse de la memoir de debug : 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62121038-1ad45280-b2c3-11e9-8d71-437cc52dfc02.png)
+
+une fois cette adresse memoire copier on va voir a partir de combien de caractere le debordement de tampon se fait.
+
+![Scan](https://user-images.githubusercontent.com/39098396/62121542-18262d00-b2c4-11e9-8a66-5e868608cd29.png)
+
+![Scan](https://user-images.githubusercontent.com/39098396/62121572-270cdf80-b2c4-11e9-8d5d-60975bc18cbb.png)
 
 

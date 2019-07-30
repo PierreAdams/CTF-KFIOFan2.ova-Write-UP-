@@ -145,7 +145,7 @@ mais en le convertissant en little Endian ce qui fait :
 
 nous allons donc envoyer ceci : 
 
-_python -c 'print ("123456789abcdefghijkl"+"\x20\x48\x55\x55\x55\x55")' | ./test_
+```python -c 'print ("123456789abcdefghijkl"+"\x20\x48\x55\x55\x55\x55")' | ./test ```
 
 nous voyons bien le lancement du debug 
 

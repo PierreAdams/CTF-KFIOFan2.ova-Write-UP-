@@ -110,13 +110,13 @@ Une fois un acces SSH, nous pouvons voir aisément que nous avons affaire à un 
 
 Nous commencons par faire un 
 
-_strings test_ 
+##_strings test_ 
 
 Et parmis les reponses de cette commande nous voyons un : 
 
 
-####*lancement debug*
-####*touch /root/authorize_bob*
+#*lancement debug*
+#*touch /root/authorize_bob*
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62124099-a94bd280-b2c9-11e9-9601-55e73c8f0e6b.png)
 

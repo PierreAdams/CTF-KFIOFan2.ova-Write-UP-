@@ -123,7 +123,7 @@ Et parmis les reponses de cette commande nous voyons un :
 
 il nous faut donc activer le debug pour que logiquement bob soit authoriser en tant que root sur la machine.
 
-pour ca allons voir l'adresse de la memoire de debug : 
+pour ca allons voir l'adresse de la memoire de debug (avec gdb) : 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62127021-5d049080-b2d1-11e9-9dad-fab32055186f.png)
 

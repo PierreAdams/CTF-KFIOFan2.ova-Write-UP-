@@ -109,7 +109,7 @@ Avec notre clé RSA nous tentons de nous connecter sur ce serveur avec les utils
 
 _ssh -p 26922 bob@192.168.1.23 -i rsa_
 
-Nous pouvons voir esaiment que nous avons a faire a un buffer overflow 
+Une fois un acces SSH, nous pouvons voir aisément que nous avons affaire à un buffer overflow 
 
 Nous commencons par faire un 
 
@@ -117,26 +117,28 @@ _strings test_
 
 Et parmis les reponses de cette commande nous voyons un : 
 
+![Scan](https://user-images.githubusercontent.com/39098396/62124099-a94bd280-b2c9-11e9-9601-55e73c8f0e6b.png)
+
 *lancement debug*
 *touch /root/authorize_bob*
 
 il nous faut donc activer le debug pour que logiquement bob soit authoriser en tant que root sur la machine.
 
-pour ca allons voir l'adresse de la memoir de debug : 
+pour ca allons voir l'adresse de la memoire de debug : 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62121038-1ad45280-b2c3-11e9-8d71-437cc52dfc02.png)
 
-une fois cette adresse memoire copier on va voir a partir de combien de caractere le debordement de tampon se fait.
+une fois cette adresse memoire copier on va voir à partir de combien de caractere le debordement de tampon ce fait.
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62121542-18262d00-b2c4-11e9-8a66-5e868608cd29.png)
 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62122510-270ddf00-b2c6-11e9-96a6-c54ab458593d.png)
 
-le debordement se fais donc a 21 caracteres
+le debordement ce fait donc à 21 caracteres.
 
-Nous allons maintenant reprendre notre addresse de Debug afin de l'ajouter a la suite de notre chaine de caractere 
-mais en le convertissant en little endian ce qui fait : 
+Nous allons maintenant reprendre notre addresse de Debug afin de l'ajouter à la suite de notre chaine de caractere 
+mais en le convertissant en little Endian ce qui fait : 
 \x20\x48\x55\x55\x55\x55
 
 nous allons donc envoyer ceci : 

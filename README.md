@@ -102,10 +102,7 @@ En meme temps, un nouveau port c'est ouvert :
 
 Avec un scan plus poussé nous voyons que c'est un serveur SSH : 
 
-![Scan](https://user-images.githubusercontent.com/39098396/59344697-e4d91000-8d0e-11e9-81be-b2cf088928f9.png)
-
 Avec notre clé RSA nous tentons de nous connecter sur ce serveur avec les utilsateur connu (Alice ou BOB)
-
 
 _ssh -p 26922 bob@192.168.1.23 -i rsa_
 

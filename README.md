@@ -109,3 +109,21 @@ Avec notre clé RSA nous tentons de nous connecter sur ce serveur avec les utils
 
 _ssh -p 26922 bob@192.168.1.23 -i rsa_
 
+Nous pouvons voir essaiment que nous avons a faire a un buffer overflow 
+
+Nous commencons par faire un 
+
+strings test 
+
+Et parmis les reponses de cette commande nous voyons un : 
+
+lancement debug 
+touch /root/authorize_bob
+
+il nous faut donc activer le debug pour que logiquement bob soit authoriser en tant que root sur la machine.
+
+pour ca allons voir l'adresse de la memoir de debug : 
+
+![Scan](https://user-images.githubusercontent.com/39098396/62121038-1ad45280-b2c3-11e9-8d71-437cc52dfc02.png)
+
+

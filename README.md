@@ -149,7 +149,8 @@ nous allons donc envoyer ceci :
 
 nous voyons bien le lancement du debug 
 
-nous pouvons ensuite faire un ####sudo su 
+nous pouvons ensuite faire un 
+```sudo su ```
 et nous somme root ! 
 
 ![Scan](https://user-images.githubusercontent.com/39098396/62123614-9b498200-b2c8-11e9-98c8-4d3719e493c6.png)

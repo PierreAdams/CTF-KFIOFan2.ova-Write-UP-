@@ -121,7 +121,7 @@ Et parmis les reponses de cette commande nous voyons un :
 ![Scan](https://user-images.githubusercontent.com/39098396/62124099-a94bd280-b2c9-11e9-9601-55e73c8f0e6b.png)
 
 
-il nous faut donc activer le debug pour que logiquement bob soit authoriser en tant que root sur la machine.
+il nous faut donc activer le debug pour que logiquement bob soit authorisé en tant que root sur la machine.
 
 pour ca allons voir l'adresse de la memoire de debug (avec gdb) : 
 
